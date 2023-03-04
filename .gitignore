@@ -1,0 +1,12 @@
+## Node Dependencies
+node_modules
+
+## Developer dependencies
+.eslintrc.json
+package-lock.json
+
+## Sensitive Information (but required by developer)
+.env
+
+## Webstorm dotfiles
+.idea
